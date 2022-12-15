@@ -14,7 +14,7 @@ Does Everything The Base 2take1 [Personal Vehicle Spawner](https://gta.2take1.me
 &nbsp;&nbsp;• **Natives:** _Used By 1 Feature But Not Required To Run The Script._
 
 ## Known Issues:
-&nbsp;&nbsp;• Aircraft (If "Deliver Aircraft To Street" Is Enabled) & Special Vehicles Will Not Spawn In Some Locations. (e.g. LSIA, Fort Zancudo)
+&nbsp;&nbsp;• Aircraft (If "Deliver Aircraft To Street" Is Enabled) & Special Vehicles Will Not Spawn In Some Locations. (e.g. Interiors, LSIA, Fort Zancudo)
 
 ## How To Install & Use
 Go To The [Releases Page](https://github.com/Bassrex100/Personal-Vehicles.lua/releases) & Find Your Desired Version Then Download The "Personal Vehicles.lua" File.
