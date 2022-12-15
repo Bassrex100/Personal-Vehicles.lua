@@ -8,9 +8,13 @@ Does Everything The Base 2take1 [Personal Vehicle Spawner](https://gta.2take1.me
 &nbsp;&nbsp;• _Spawn Aircraft Near You On The Street._  
 &nbsp;&nbsp;• _Don't Use The Brand Name In Vehicle Names._  
 &nbsp;&nbsp;• _See & Request All Owned Vehicles Including Aircraft & Special Vehicles._  
-## Required [Trusted Modes](https://gta.2take1.menu/dev/scripts/#trusted-mode)
-• **Globals / Locals:** _Used To Request & Return Personal Vehicles._  
-• **Natives:** _Used To Get Personal Vehicle Names._
+>Aircraft (If "Deliver Aircraft To Street" Is Enabled) & Special Vehicles Will Not Spawn In Some Locations. (LSIA, Fort Zancudo)
+
+
+
+## Used [Trusted Modes](https://gta.2take1.menu/dev/scripts/#trusted-mode)
+• **Globals / Locals:** _Required For The Script To Functon._  
+• **Natives:** _Used By 1 Feature But Not Required To Run The Script._
 
 ## How To Install & Use
 Go To The [Releases Page](https://github.com/Bassrex100/Personal-Vehicles.lua/releases) & Find Your Desired Version Then Download The "Personal Vehicles.lua" File.
