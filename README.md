@@ -10,8 +10,8 @@ Does Everything The Base 2take1 [Personal Vehicle Spawner](https://gta.2take1.me
 &nbsp;&nbsp;• _See & Request All Owned Vehicles Including Aircraft & Special / Service Vehicles._  
 
 ## Used [Trusted Modes](https://gta.2take1.menu/dev/scripts/#trusted-mode)
-&nbsp;&nbsp;• **Globals / Locals:** _Required For The Script To Functon._  
-&nbsp;&nbsp;• **Natives:** _Used By 1 Feature But Not Required To Run The Script._
+&nbsp;&nbsp;• **Globals / Locals:** _Required To Request, Return & Claim Vehicles._  
+&nbsp;&nbsp;• **Natives:** _Used By 1 Feature But Not Required To Use The Script._
 
 ## Known Issues:
 &nbsp;&nbsp;• Aircraft (If "Deliver Aircraft To Street" Is Enabled) & Special Vehicles Will Not Spawn In Some Locations. (e.g. Interiors, LSIA, Fort Zancudo)
