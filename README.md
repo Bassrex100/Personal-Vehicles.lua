@@ -6,7 +6,7 @@ Does Everything The Base 2take1 [Personal Vehicle Spawner](https://gta.2take1.me
 &nbsp;&nbsp;• _Sort The Vehicle List By Vehicle Type._  
 &nbsp;&nbsp;• _Teleport Into Current Personal Vehicle._  
 &nbsp;&nbsp;• _Spawn Aircraft Near You On The Street._  
-&nbsp;&nbsp;• _Hide Vehicle Brands For Better Readability._  
+&nbsp;&nbsp;• _Hide Vehicle Brand Names For Better Readability._  
 &nbsp;&nbsp;• _See & Request All Owned Vehicles Including Aircraft & Special / Service Vehicles._  
 
 ## Used [Trusted Modes](https://gta.2take1.menu/dev/scripts/#trusted-mode)
