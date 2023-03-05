@@ -2,7 +2,6 @@
 GTA5 Script For 2Take1's Lua Engine.  
 
 Does Everything The Base 2take1 [Personal Vehicle Spawner](https://gta.2take1.menu/features/online/services/#personal-vehicles) Does But With Some Extra Options & Features Such As:  
-
 &nbsp;&nbsp;• _Sort The Vehicle List By Vehicle Type._  
 &nbsp;&nbsp;• _Teleport Into Current Personal Vehicle._  
 &nbsp;&nbsp;• _Spawn Aircraft Near You On The Street._  
