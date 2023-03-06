@@ -13,7 +13,7 @@ Does Everything The Base 2take1 [Personal Vehicle Spawner](https://gta.2take1.me
 &nbsp;&nbsp;• **Globals / Locals:** _Required To Request, Return & Claim Vehicles._  
 &nbsp;&nbsp;• **Natives:** _Used By 1 Feature But Not Required To Use The Script._
 
-## Known Issues:
+## Known Issues
 &nbsp;&nbsp;• Aircraft, Special & Service Vehicles Will Not Spawn When In Interiors.
 
 ## How To Install & Use
