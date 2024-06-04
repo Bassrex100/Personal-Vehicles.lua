@@ -1,23 +1,34 @@
 # Personal Vehicles.lua
-GTA5 Script For 2Take1's Lua Engine.  
+This script aims to be a better alternative to the barebones 2Take1 [**Personal Vehicle Spawner**](https://gta.2take1.menu/features/online/services/#personal-vehicles).
 
-Does Everything The Base 2take1 [Personal Vehicle Spawner](https://gta.2take1.menu/features/online/services/#personal-vehicles) Does But With Some Extra Options & Features Such As:  
-&nbsp;&nbsp;• _Sort The Vehicle List By Vehicle Type._  
-&nbsp;&nbsp;• _Spawn Aircraft Near You On The Street._  
-&nbsp;&nbsp;• _Navigate To The Vehicle List Via [Hotkey](https://gta.2take1.menu/setup/keybinds/#feature-hotkeys)._  
-&nbsp;&nbsp;• _Teleport Into Personal & Service Vehicles._  
-&nbsp;&nbsp;• _Hide Vehicle Brand Names For Better Readability._  
-&nbsp;&nbsp;• _Request Any Owned Vehicle Including Aircraft, Special & Service Vehicles._  
+## Key Features
+- Request & return personal vehicles, including aircraft & special vehicles. [^1]
+- Request & return owned service vehicles. [^1]
+- Claim all destroyed personal vehicles. [^2]
+- Teleport into personal & service vehicles.
+- Deliver aircraft near you on the street.
+- Hide brand names for better readability.
+- Open the `Personal Vehicles.lua` submenu via [**hotkey**](https://gta.2take1.menu/setup/keybinds/#feature-hotkeys).
+- Sort vehicles alphabetically.
+- Sort vehicles by property.
+- Filter vehicles by type.
 
->Vehicle Deliveries Might Be Delayed / Broken If You're In A Laggy Or Broken Session.
+## [Trusted Modes](https://gta.2take1.menu/dev/scripts/#trusted-mode)
+- **Stats:** *Recommended*
+    - Save game after claiming destroyed personal vehicles.
+- **Globals:** *Recommended*
+    - Request personal & service vehicles.
+    - Return active personal & service vehicles.
+    - Claim destroyed personal vehicles.
+- **Natives:** *Required*
+    - The script wouldn't function without the use of natives.
+- **HTTP:** *Unused*
+- **Memory:** *Unused*
 
-## Used [Trusted Modes](https://gta.2take1.menu/dev/scripts/#trusted-mode)
-&nbsp;&nbsp;• **Globals / Locals:** _Required To Request, Return & Claim Vehicles._  
-&nbsp;&nbsp;• **Natives:** _Used By 1 Feature But Not Required To Use The Script._
+## [Installation](https://gta.2take1.menu/dev/scripts/#manual-installation)
+1. Download the [**latest version**](https://github.com/Bassrex100/Personal-Vehicles.lua/releases/latest/download/Personal_Vehicles.lua) of the script, or one of your choosing from the [**releases page**](https://github.com/Bassrex100/Personal-Vehicles.lua/releases).
+2. Put the downloaded `Personal_Vehicles.lua` file into the `%appdata%\PopstarDevs\2Take1Menu\scripts` directory.
+3. You can now [**execute the script**](https://gta.2take1.menu/dev/scripts/#running-scripts) at `Local → Scripts → Personal_Vehicles.lua → Run` from within 2Take1.
 
-## How To Install & Use
-Go To The [Releases Page](https://github.com/Bassrex100/Personal-Vehicles.lua/releases) & Find Your Desired Version Then Download The "Personal Vehicles.lua" File.
-
-Drop The Lua File You Just Downloaded Into: _`\AppData\Roaming\PopstarDevs\2Take1Menu\scripts`_
-
-Now With GTA Running & Menu Injected You Can Start The Script From "[Local > Scripts](https://gta.2take1.menu/dev/scripts/#management-and-execution)" & Use It At "[Local > Script Features](https://gta.2take1.menu/dev/scripts/#management-and-execution)".
+[^1]: Vehicle request & cleanup times may be prolonged if the current session is slow or has a poor script host.
+[^2]: Enable trusted stats to initiate a game save after claiming any destroyed vehicles.
